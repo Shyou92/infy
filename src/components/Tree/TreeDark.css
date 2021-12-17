@@ -1,0 +1,41 @@
+
+.dark .tree__title {
+  color: #fff;
+}
+
+.dark .tree__title_category_popup {
+  color: #8960e2;
+}
+.dark .tree__subtitle {
+  color: #e62118;
+}
+
+.dark .tree__button {
+  color: #fff;
+}
+.dark .tree__popup {
+  background: #0E0E0E;
+}
+
+.dark .tree__popup-card {
+  background: #0E0E0E;
+  box-shadow: 20px 20px 200px rgba(0, 0, 0, 0.48);
+}
+.dark .tree__popup-title {
+  color: rgba(255, 255, 255, 0.7);
+}
+.dark .tree__popup-name {
+  color: #FFFFFF;
+}
+.dark .tree__popup-status {
+  color: rgba(235, 0, 0, 0.7);
+}
+.dark .tree__popup-user {
+  color: rgba(255, 255, 255, 0.7);
+}
+.dark .tree__popup-partner {
+  color: rgba(255, 255, 255, 0.7);
+}
+.dark .tree__popup-img {
+  background: #1E1E1E;
+}
